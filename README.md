@@ -77,3 +77,8 @@
 <p align="center">
   🚀 Building • Learning • Innovating
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Houvered/Houvered/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
