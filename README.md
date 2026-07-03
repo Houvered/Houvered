@@ -1,84 +1,84 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Nirmit%20Kumar%20Srivastava%20🚀&fontSize=40&fontColor=fff&animation=fadeIn)
 
 <p align="center">
-  🤖 AI & CSE Undergraduate at Gautam Buddha University <br>
-  Building real-world Machine Learning and AI solutions through projects and research.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+CSE+Student;Machine+Learning+Enthusiast;Building+Industrial+AI+Solutions;Open+to+AI%2FML+Internships" />
 </p>
 
 ---
 
-## 💫 About Me
+## 💻 About Me
 
-- 🎓 B.Tech in Artificial Intelligence & Computer Science
-- 🤖 Interested in Machine Learning, Data Science, Computer Vision & Generative AI
-- 🚀 Currently building an Industrial Predictive Maintenance System
-- 💻 Working with Python, Pandas, NumPy, Scikit-learn, SQL, Git & GitHub
-- 🌱 Learning advanced Machine Learning, MLOps, and Industrial AI
-- 🤝 Open to AI/ML internships, research opportunities, and collaborations
+```bash
+$ whoami
+🟢 Nirmit Kumar Srivastava
 
-> I believe the best way to learn is by building, experimenting, and solving real-world problems.
+$ education
+🔵 B.Tech AI & CSE @ Gautam Buddha University
+
+$ interests
+🟣 Machine Learning
+🔷 Data Science
+🟠 Computer Vision
+🟡 Generative AI
+
+$ current_project
+🔧 Industrial Predictive Maintenance System
+
+$ status
+🚀 Building. Learning. Improving.
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,html,css,react,tensorflow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,html,css,react,tensorflow,pytorch" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Industrial Predictive Maintenance System
+🔧 **Industrial Predictive Maintenance System**  
+Machine learning solution for equipment failure prediction and maintenance optimization.
 
-🔹 EcoEd – Gamified Environmental Education Platform
+🌱 **EcoEd**  
+Gamified environmental education platform with AI-powered learning assistance.
 
-🔹 Indian Mom Dialogue Classifier
-
-🔹 Machine Learning & Data Science Projects
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Nirmit-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:nirmits882@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Houvered">
-    <img src="https://img.shields.io/badge/GitHub-Houvered-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+🧠 **Indian Mom Dialogue Classifier**  
+NLP-based dialogue classification project.
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Houvered&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houvered&layout=compact&theme=tokyonight" />
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nirmits882@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Houvered">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  🚀 Building • Learning • Innovating
+  <img src="https://komarev.com/ghpvc/?username=Houvered&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Houvered/Houvered/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<h3 align="center">
+🚀 Building • Learning • Innovating
+</h3>
